@@ -18,3 +18,5 @@ ngrok test
 
 
 9 may
+
+PC to laptop
